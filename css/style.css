@@ -1,0 +1,25 @@
+p{
+	/*background-color: red;*/
+	margin: 0;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+.container{
+	    height: 500px;
+    width: 1000px;
+   /* background: #fff;*/
+    margin-right: auto;
+    margin-left: auto;
+}
+/*
+.col-2-1{
+	    height: 500px;
+    background: #fff;
+    width: 50%;
+    float: left;
+}
+*/
+
